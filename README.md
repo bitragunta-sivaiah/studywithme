@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img src="https://i.imgur.com/REPLACE_THIS_WITH_YOUR_GIF.gif" alt="StudyWithMe App Demo">
+  <img src="https://i.imgur.com/REPLACE_THIS_WITH_YOUR_GIF.gif](https://ik.imagekit.io/zxxzgk3iq/Screenshot%202025-11-05%20at%209.28.38%E2%80%AFAM.png?updatedAt=1762353064987" alt="StudyWithMe App Demo">
 </p>
 
 ## 🤔 Why StudyWithMe?
